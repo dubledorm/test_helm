@@ -1,0 +1,5 @@
+name: example_3_services
+description: |
+  Just a test catalog item with three services
+version: v1
+category: Test
